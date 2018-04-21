@@ -1,7 +1,10 @@
 # SensorFail
 
-Description:
 
+![alt text](https://github.com/aziz76/SensorFail/blob/master/SensorFail.bmp)
+
+Description:
+------------
 
 SensorFail is a Lua application designed to run on the Jeti DS/C/14/16/24 series of transmitters. The function of this application is to allow the user to track telemetry sensors and warn the user with an audible warning in the even the telemetry sensor stops reporting. Setting up sensor tracking involves: 
 
