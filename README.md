@@ -1,7 +1,7 @@
 # SensorFail
 
 
-![alt text](https://github.com/aziz76/SensorFail/blob/master/SensorFail.png)
+![alt text](https://github.com/aziz76/SensorFail/blob/master/SensorFail.png "SensorFail")
 
 Description:
 ------------
