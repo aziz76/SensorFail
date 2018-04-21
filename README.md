@@ -13,3 +13,4 @@ SensorFail is a Lua application designed to run on the Jeti DS/C/14/16/24 series
 	3) Assigning an audio file for the audible warning
 	4) Selecting the repeat pattern of the warning, between no repeat, repeat 3x, and repeat always.
 
+Contact: abdulaziz1@me.com
